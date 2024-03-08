@@ -1,0 +1,2 @@
+# firstautomation
+dummy project
